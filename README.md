@@ -1,2 +1,2 @@
 # tweet-assist
-Tkinter wrapper for Twitter API
+Tkinter GUI wrapper for Twitter API
