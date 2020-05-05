@@ -5,5 +5,9 @@ For now, only authenticates and makes tweets. Saves keys so you only need to ent
 Other functionality in progress.
 
 To do:
-*Schedule tweets
-*Search/retweet/like/follow
+
+- [ ] Schedule tweets
+
+- [ ] Search/retweet/like/follow
+
+- [ ] Encrypt saves
