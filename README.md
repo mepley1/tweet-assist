@@ -10,6 +10,9 @@ To do:
 
 - [ ] Schedule tweets
 
+- [ ] Add media to tweets
+
 - [ ] Search/retweet/like/follow
 
-- [ ] Encrypt saves
+- [ ] Encrypt saved data
+
