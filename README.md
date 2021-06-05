@@ -1,5 +1,5 @@
 # tweet-assist
-Tkinter GUI wrapper for Twitter API using tweepy and pickle.
+A simple GUI frontend for Tweepy.
 
 ![Screenshot](https://raw.githubusercontent.com/alienemoji/tweet-assist/master/screenshot.png)
 
