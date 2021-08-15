@@ -1,5 +1,5 @@
 # tweet-assist
-A simple GUI frontend for Tweepy.
+A simple GUI for Tweepy.
 
 ![Screenshot](https://raw.githubusercontent.com/alienemoji/tweet-assist/master/screenshot.png)
 
